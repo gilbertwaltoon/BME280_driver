@@ -4,9 +4,7 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 
-#include <stdint.h>
-#include <stdlib.h>
-#include <stdio.h>
+
 
 #include "coines.h"
 #include "bme280.h"
