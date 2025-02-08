@@ -136,6 +136,7 @@
 #define BME280_CHIP_ID                            UINT8_C(0x60)
 
 /*! @name I2C addresses */
+/* n.b. Address gets <<1 bme280_handler*/
 #define BME280_I2C_ADDR_PRIM                      UINT8_C(0x76)
 #define BME280_I2C_ADDR_SEC                       UINT8_C(0x77)
 
